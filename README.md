@@ -4,7 +4,7 @@ This repository contains code and resources for building a churn prediction mode
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Magical Machine Learning |  [https://medium.com/@alidu143/building-a-customer-churn-prediction-web-app-with-gradio-a-step-by-step-guide-5d7d77ede323](/) | [Best app of the world](/) |
+| LP4 | Magical Machine Learning |  [https://medium.com/@alidu143/building-a-customer-churn-prediction-web-app-with-gradio-a-step-by-step-guide-5d7d77ede323](/) | [https://huggingface.co/spaces/Abubakari/churn_prediction_App](/) |
 
 ## Project Description
 Churn prediction is a critical task for businesses that want to retain their customers and optimize revenue. This repository contains code and resources for building a churn prediction model using machine learning techniques, and deploying it with Gradio for a user-friendly interface.
@@ -20,6 +20,11 @@ Download or Clone the repository and navigate to the project directory. Clone th
 
 git clone https://github.com/aliduabubakari/churn-prediction-with-gradio 
 
+Alternatively, you can visit:
+
+https://huggingface.co/spaces/Abubakari/churn_prediction_App 
+
+
 ## Install the dependencies
 
 Navigate to the cloned repository and run the command:
@@ -28,19 +33,36 @@ pip install -r requirements.txt
 
 ## App Execution
 
+First step select the gender and the select whether he/she is a senior Citizen. The key is prpvided that indicates 0 is for NO and 1 is for a YES. Also choose if the customer has a partner. 
+
 ![Alt text](images/1.png)
+
+Select if the customer has any dependents. 
 
 ![Alt text](images/2.png)
 
+Next, input the length of the tenure in months, slect if the customer has the following; Phoneservice, multiple lines, Internetservice, Onlinesecurity and onlinebackup.
+
+
 ![Alt text](images/3.png)
+
+Next, choose if the customer has the following; Deviceprotection, Techsupport, StreamingTV and streamingMovies. 
 
 ![Alt text](images/4.png)
 
+Select if the cutomer prefers paperlessbilling. Also select the Paymentmethod, and enter the Monthly charges together with the Total charges. 
+
 ![Alt text](images/5.png)
+
+Lastly submit the values and click on the predict button to the prediction. 
 
 ![Alt text](images/6.png)
 
+
+
 ![Alt text](images/7.png)
+
+
 
 ![Alt text](images/8.png)
 
@@ -48,3 +70,4 @@ pip install -r requirements.txt
 
 ## Author
 Alidu Abubakari
+Data Analyst
