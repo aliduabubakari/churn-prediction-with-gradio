@@ -46,22 +46,27 @@ First step select the gender and the select whether he/she is a senior Citizen. 
 Select if the customer has any dependents. 
 
 
-
 ![Alt text](images/4.png)
 
-Select if the cutomer prefers paperlessbilling. Also select the Paymentmethod, and enter the Monthly charges together with the Total charges. 
+
+Next, input the length of the tenure in months, slect if the customer has the following; Phoneservice, multiple lines, Internetservice, Onlinesecurity and onlinebackup.
+
+
 
 ![Alt text](images/5.png)
 
-Lastly submit the values and click on the predict button to the prediction. 
+Next, choose if the customer has the following; Deviceprotection, Techsupport, StreamingTV and streamingMovies. 
+
+ 
 
 ![Alt text](images/6.png)
 
+Select if the cutomer prefers paperlessbilling. Also select the Paymentmethod, and enter the Monthly charges together with the Total charges. 
 
 
 ![Alt text](images/7.png)
 
-
+Lastly submit the values and click on the predict button to the prediction.
 
 ![Alt text](images/8.png)
 
