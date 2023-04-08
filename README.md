@@ -33,20 +33,19 @@ pip install -r requirements.txt
 
 ## App Execution
 
-First step select the gender and the select whether he/she is a senior Citizen. The key is prpvided that indicates 0 is for NO and 1 is for a YES. Also choose if the customer has a partner. 
+
 
 ![Alt text](images/1.png)
 
-Select if the customer has any dependents. 
+First step select the gender and the select whether he/she is a senior Citizen. The key is prpvided that indicates 0 is for NO and 1 is for a YES. Also choose if the customer has a partner. 
 
-![Alt text](images/2.png)
-
-Next, input the length of the tenure in months, slect if the customer has the following; Phoneservice, multiple lines, Internetservice, Onlinesecurity and onlinebackup.
 
 
 ![Alt text](images/3.png)
 
-Next, choose if the customer has the following; Deviceprotection, Techsupport, StreamingTV and streamingMovies. 
+Select if the customer has any dependents. 
+
+
 
 ![Alt text](images/4.png)
 
