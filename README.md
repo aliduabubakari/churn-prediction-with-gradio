@@ -73,5 +73,7 @@ Lastly submit the values and click on the predict button to the prediction.
 
 
 ## Author
+
 Alidu Abubakari
+
 Data Analyst
