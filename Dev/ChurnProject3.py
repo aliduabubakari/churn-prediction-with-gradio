@@ -91,7 +91,7 @@ def predict(gender,SeniorCitizen,Partner,Dependents, tenure, PhoneService,Multip
 
 input_interface=[]
 with gr.Blocks(css=".gradio-container {background-color: powderblue}") as app:
-    img = gr.Image("C:/Users/user/Documents/AZUBI PROGRAM/CAREER ACELERATOR/LP4-buiding an app/Gradio/lp4_part2-1/telecom churn.png").style(height='13')
+    img = gr.Image("telecom churn.png").style(height='13')
 
     Title=gr.Label('CUSTOMER CHURN PREDICTION APP')
 

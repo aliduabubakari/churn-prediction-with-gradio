@@ -102,42 +102,63 @@ By clicking on the image, you will be redirected to the Churn Prediction App.
 
 ## App Execution
 
-
+📷 Step 1: Select Gender and Senior Citizen Status
 
 ![Alt text](images/1.png)
 
-First step select the gender and the select whether he/she is a senior Citizen. The key is prpvided that indicates 0 is for NO and 1 is for a YES. Also choose if the customer has a partner. 
+Choose the gender of the customer.
+Indicate whether the customer is a senior citizen (0 for NO, 1 for YES).
+Select whether the customer has a partner.
 
-
+📷 Step 2: Select Dependents
 
 ![Alt text](images/3.png)
 
-Select if the customer has any dependents. 
+Specify if the customer has any dependents.
 
+📷 Step 3: Enter Tenure and Service Details
 
 ![Alt text](images/4.png)
 
 
-Next, input the length of the tenure in months, slect if the customer has the following; Phoneservice, multiple lines, Internetservice, Onlinesecurity and onlinebackup.
+Enter the length of the tenure in months.
+
+Select the availability of phone service, multiple lines, internet service, online security, and online backup.
 
 
-
+📷 Step 4: Choose Additional Services
 ![Alt text](images/5.png)
 
-Next, choose if the customer has the following; Deviceprotection, Techsupport, StreamingTV and streamingMovies. 
+Specify if the customer has the following; Deviceprotection, Techsupport, StreamingTV and streamingMovies. 
 
- 
+
+📷 Step 5: Select Billing and Payment Details 
 
 ![Alt text](images/6.png)
 
-Select if the cutomer prefers paperlessbilling. Also select the Paymentmethod, and enter the Monthly charges together with the Total charges. 
+- Choose if the customer prefers paperless billing.
 
+- Select the payment method.
+
+- Enter the monthly charges and total charges.
+
+📷 Step 6: Submit and Predict
 
 ![Alt text](images/7.png)
 
-Lastly submit the values and click on the predict button to the prediction.
+- Submit all the entered values.
+
+- Click on the "Predict" button to obtain the prediction.
+
+📷 Prediction Result
 
 ![Alt text](images/8.png)
+
+- View the prediction result based on the input values.
+
+By following these steps, you can input the necessary information and get the churn prediction for the customer. The app provides an intuitive and user-friendly interface for easy execution and interpretation of the prediction.
+
+Feel free to explore and make predictions with the app! 🎉🔍
 
 
 🌟 Key Features and Benefits:
