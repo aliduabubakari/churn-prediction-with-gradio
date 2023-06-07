@@ -174,9 +174,13 @@ Feel free to explore and make predictions with the app! 🎉🔍
 The churn prediction model and deployment with Gradio offer a powerful solution for predicting customer churn and improving customer retention efforts. By leveraging machine learning techniques and a user-friendly interface, businesses can make data-driven decisions to identify at-risk customers and implement effective retention strategies. Explore the repository and start building your own churn prediction application! 🚀💪
 
 
-
 ## Author
 
-Alidu Abubakari
+`Alidu Abubakari`
 
-Data Analyst
+`Data Analyst`
+
+`Azubi Africa`
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) 
+
