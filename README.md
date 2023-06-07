@@ -142,11 +142,14 @@ Lastly submit the values and click on the predict button to the prediction.
 
 🌟 Key Features and Benefits:
 
-Accurate churn prediction to identify customers at risk of leaving 🎯🔍
-User-friendly interface for easy input and prediction retrieval 🌐💡
-Potential for data-driven decision-making and customer retention strategies 💼📉
+1. Accurate churn prediction to identify customers at risk of leaving 🎯🔍
+
+2. User-friendly interface for easy input and prediction retrieval 🌐💡
+
+3. Potential for data-driven decision-making and customer retention strategies 💼📉
 
 ✨ Conclusion:
+
 The churn prediction model and deployment with Gradio offer a powerful solution for predicting customer churn and improving customer retention efforts. By leveraging machine learning techniques and a user-friendly interface, businesses can make data-driven decisions to identify at-risk customers and implement effective retention strategies. Explore the repository and start building your own churn prediction application! 🚀💪
 
 
