@@ -102,7 +102,7 @@ By clicking on the image, you will be redirected to the Churn Prediction App.
 
 ## App Execution
 
-📷 Step 1: Select Gender and Senior Citizen Status
+#### 📷 Step 1: Select Gender and Senior Citizen Status
 
 ![Alt text](images/1.png)
 
@@ -110,13 +110,13 @@ Choose the gender of the customer.
 Indicate whether the customer is a senior citizen (0 for NO, 1 for YES).
 Select whether the customer has a partner.
 
-📷 Step 2: Select Dependents
+#### 📷 Step 2: Select Dependents
 
 ![Alt text](images/3.png)
 
 Specify if the customer has any dependents.
 
-📷 Step 3: Enter Tenure and Service Details
+####  📷 Step 3: Enter Tenure and Service Details
 
 ![Alt text](images/4.png)
 
@@ -126,13 +126,13 @@ Enter the length of the tenure in months.
 Select the availability of phone service, multiple lines, internet service, online security, and online backup.
 
 
-📷 Step 4: Choose Additional Services
+#### 📷 Step 4: Choose Additional Services
 ![Alt text](images/5.png)
 
 Specify if the customer has the following; Deviceprotection, Techsupport, StreamingTV and streamingMovies. 
 
 
-📷 Step 5: Select Billing and Payment Details 
+#### 📷 Step 5: Select Billing and Payment Details 
 
 ![Alt text](images/6.png)
 
@@ -142,7 +142,7 @@ Specify if the customer has the following; Deviceprotection, Techsupport, Stream
 
 - Enter the monthly charges and total charges.
 
-📷 Step 6: Submit and Predict
+#### 📷 Step 6: Submit and Predict
 
 ![Alt text](images/7.png)
 
@@ -150,7 +150,7 @@ Specify if the customer has the following; Deviceprotection, Techsupport, Stream
 
 - Click on the "Predict" button to obtain the prediction.
 
-📷 Prediction Result
+#### 📷 Prediction Result
 
 ![Alt text](images/8.png)
 
@@ -161,7 +161,7 @@ By following these steps, you can input the necessary information and get the ch
 Feel free to explore and make predictions with the app! 🎉🔍
 
 
-🌟 Key Features and Benefits:
+## 🌟 Key Features and Benefits:
 
 1. Accurate churn prediction to identify customers at risk of leaving 🎯🔍
 
@@ -169,7 +169,7 @@ Feel free to explore and make predictions with the app! 🎉🔍
 
 3. Potential for data-driven decision-making and customer retention strategies 💼📉
 
-✨ Conclusion:
+## ✨ Conclusion:
 
 The churn prediction model and deployment with Gradio offer a powerful solution for predicting customer churn and improving customer retention efforts. By leveraging machine learning techniques and a user-friendly interface, businesses can make data-driven decisions to identify at-risk customers and implement effective retention strategies. Explore the repository and start building your own churn prediction application! 🚀💪
 
