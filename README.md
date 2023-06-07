@@ -88,8 +88,12 @@ By following these steps, you will set up the necessary environment and install 
 To run the demo app (being at the repository root), use the following command:
 
 ```bash
-streamlit run churnProject3.py
+python churnProject3.py
 ```
+
+The Gradio app will start running and provide you with a local server address (e.g., http://127.0.0.1:7860/). Open your web browser and enter this address to access the app.
+
+Interact with the Gradio app in your web browser and test the churn prediction functionality.
 
 ## Deployed App on Huggingface: 
 
